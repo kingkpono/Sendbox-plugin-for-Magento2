@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2015 Sendbox. All rights reserved.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../Backend/etc/menu.xsd">
+    <menu>
+    	<!--
+        <add id="Sendbox_Shipment::sendbox_getquotesadminindex" title="sendbox_shipment" module="Sendbox_Shipment"  sortOrder="20" dependsOnModule="Sendbox_Shipment" action="shipment/getquotesadmin/index" resource="Sendbox_Shipment::sendbox_getquotesadminindex"/>
+AddMenu-->
+    </menu>
+</config>
